@@ -1,3 +1,5 @@
 # genarater-password
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-k1fetn)
+geradpr de senha com html,css e js
+
+[veja aqui](https://stackblitz.com/edit/web-platform-k1fetn)
